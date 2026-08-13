@@ -1,0 +1,341 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "A little more than an introduction to",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-09-16T14:01:47Z",
+                "owner": "JonathanWoollett-Light",
+                "repo": "a-little-more-than-an-introduction-to",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "BitDahi",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-03T16:17:56Z",
+                "owner": "ta4anx",
+                "repo": "BitDahi-YouTube",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Chilao (痴佬)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-05-17T03:18:21Z",
+                "owner": "chilaochen",
+                "repo": "manim_projects",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Grant Sanderson (3blue1brown)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-03T16:00:14Z",
+                "owner": "3b1b",
+                "repo": "videos",
+                "stars": 11077
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Mashaan Alshammari",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-04-26T10:10:58Z",
+                "owner": "mashaan14",
+                "repo": "manim",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Mashup",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Mathink",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-11-14T00:06:10Z",
+                "owner": "MathinkYT",
+                "repo": "manim_videos",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Matthias Wittfogel",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Nillohit Roy (21st Century Corporation)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T12:37:34Z",
+                "owner": "21stCenturyCorporation",
+                "repo": "Maths-Tutorial",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Open Engineering",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-12-11T03:53:14Z",
+                "owner": "0xCoto",
+                "repo": "OpenEngineering",
+                "stars": 15
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Reducible",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-08-01T00:01:10Z",
+                "owner": "nipunramk",
+                "repo": "Reducible",
+                "stars": 668
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Spectral Collective",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Svetlana Kutuzova (Deep Learning That Works)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-03-11T21:50:19Z",
+                "owner": "sgalkina",
+                "repo": "animations",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Tomáš Sláma",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-04-08T17:55:22Z",
+                "owner": "xiaoxiae",
+                "repo": "videos",
+                "stars": 93
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Creators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Manim Community Edition",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-11T23:03:07Z",
+                "owner": "ManimCommunity",
+                "repo": "manim",
+                "stars": 40163
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Manim 3b1b Edition",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-11T14:41:19Z",
+                "owner": "3b1b",
+                "repo": "manim",
+                "stars": 90814
+              }
+            }
+          ]
+        }
+      ],
+      "title": "About"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:00:31.345Z",
+    "original_repository": "ManimCommunity/awesome-manim",
+    "original_repository_sha": "550cdd76f20f839b92252a9d8d1f244b2249e8cd",
+    "enhanced_repository": "enhansome/enhansome-manim",
+    "enhanced_repository_description": null,
+    "title": "Awesome manim with stars"
+  }
+}
