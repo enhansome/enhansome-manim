@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -15,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 319434652,
                 "language": "Python",
                 "last_commit": "2024-09-16T14:01:47Z",
                 "owner": "JonathanWoollett-Light",
@@ -36,6 +37,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 995559506,
                 "language": "Python",
                 "last_commit": "2025-09-03T16:17:56Z",
                 "owner": "ta4anx",
@@ -57,6 +59,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 686297285,
                 "language": "Python",
                 "last_commit": "2024-05-17T03:18:21Z",
                 "owner": "chilaochen",
@@ -78,11 +81,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 325873493,
                 "language": "Python",
                 "last_commit": "2026-08-18T15:39:31Z",
                 "owner": "3b1b",
                 "repo": "videos",
-                "stars": 11118
+                "stars": 11123
               }
             }
           ]
@@ -99,25 +103,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 672377713,
                 "language": "Jupyter Notebook",
                 "last_commit": "2024-04-26T10:10:58Z",
                 "owner": "mashaan14",
                 "repo": "manim",
                 "stars": 3
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Mashup",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -133,25 +125,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 537248150,
                 "language": "Python",
                 "last_commit": "2022-11-14T00:06:10Z",
                 "owner": "MathinkYT",
                 "repo": "manim_videos",
                 "stars": 4
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Matthias Wittfogel",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -167,6 +147,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1084247536,
                 "language": "Python",
                 "last_commit": "2025-10-27T12:37:34Z",
                 "owner": "21stCenturyCorporation",
@@ -188,6 +169,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 434978697,
                 "language": "Python",
                 "last_commit": "2021-12-11T03:53:14Z",
                 "owner": "0xCoto",
@@ -209,25 +191,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 219360272,
                 "language": "Python",
                 "last_commit": "2022-08-01T00:01:10Z",
                 "owner": "nipunramk",
                 "repo": "Reducible",
                 "stars": 668
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Spectral Collective",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GitHub",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -243,6 +213,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 867178264,
                 "language": "Jupyter Notebook",
                 "last_commit": "2025-03-11T21:50:19Z",
                 "owner": "sgalkina",
@@ -264,6 +235,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 357865052,
                 "language": "Python",
                 "last_commit": "2024-04-08T17:55:22Z",
                 "owner": "xiaoxiae",
@@ -277,7 +249,7 @@
       "title": "Creators"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -291,11 +263,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 265122478,
                 "language": "Python",
                 "last_commit": "2026-08-15T08:31:07Z",
                 "owner": "ManimCommunity",
                 "repo": "manim",
-                "stars": 40242
+                "stars": 40257
               }
             }
           ]
@@ -312,27 +285,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 32689863,
                 "language": "Python",
-                "last_commit": "2026-08-17T20:15:32Z",
+                "last_commit": "2026-08-18T21:03:49Z",
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 91605
+                "stars": 91693
               }
             }
           ]
         }
       ],
       "title": "About"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:37:49.580Z",
+    "last_updated": "2026-08-19T12:38:49.468Z",
     "original_repository": "ManimCommunity/awesome-manim",
+    "original_repository_id": 432286462,
     "original_repository_sha": "550cdd76f20f839b92252a9d8d1f244b2249e8cd",
     "enhanced_repository": "enhansome/enhansome-manim",
     "enhanced_repository_description": null,
