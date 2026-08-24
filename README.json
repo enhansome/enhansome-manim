@@ -86,7 +86,7 @@
                 "last_commit": "2026-08-18T15:39:31Z",
                 "owner": "3b1b",
                 "repo": "videos",
-                "stars": 11139
+                "stars": 11140
               }
             }
           ]
@@ -265,10 +265,10 @@
                 "archived": false,
                 "id": 265122478,
                 "language": "Python",
-                "last_commit": "2026-08-23T03:37:39Z",
+                "last_commit": "2026-08-24T20:01:27Z",
                 "owner": "ManimCommunity",
                 "repo": "manim",
-                "stars": 40433
+                "stars": 40440
               }
             }
           ]
@@ -290,7 +290,7 @@
                 "last_commit": "2026-08-18T21:03:49Z",
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 91995
+                "stars": 92006
               }
             }
           ]
@@ -300,7 +300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:21:46.452Z",
+    "last_updated": "2026-08-24T20:45:55.942Z",
     "original_repository": "ManimCommunity/awesome-manim",
     "original_repository_id": 432286462,
     "original_repository_sha": "550cdd76f20f839b92252a9d8d1f244b2249e8cd",
