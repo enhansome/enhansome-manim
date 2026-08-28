@@ -21,7 +21,8 @@
                 "owner": "JonathanWoollett-Light",
                 "repo": "a-little-more-than-an-introduction-to",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:21:20.842Z"
             }
           ]
         },
@@ -43,7 +44,8 @@
                 "owner": "ta4anx",
                 "repo": "BitDahi-YouTube",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:21:20.842Z"
             }
           ]
         },
@@ -65,7 +67,8 @@
                 "owner": "chilaochen",
                 "repo": "manim_projects",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:21:20.842Z"
             }
           ]
         },
@@ -87,7 +90,8 @@
                 "owner": "3b1b",
                 "repo": "videos",
                 "stars": 11152
-              }
+              },
+              "first_seen": "2026-08-28T04:21:20.842Z"
             }
           ]
         },
@@ -109,7 +113,8 @@
                 "owner": "mashaan14",
                 "repo": "manim",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:21:20.842Z"
             }
           ]
         },
@@ -131,7 +136,8 @@
                 "owner": "MathinkYT",
                 "repo": "manim_videos",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:21:20.842Z"
             }
           ]
         },
@@ -153,7 +159,8 @@
                 "owner": "21stCenturyCorporation",
                 "repo": "Maths-Tutorial",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:21:20.842Z"
             }
           ]
         },
@@ -175,7 +182,8 @@
                 "owner": "0xCoto",
                 "repo": "OpenEngineering",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T04:21:20.842Z"
             }
           ]
         },
@@ -197,7 +205,8 @@
                 "owner": "nipunramk",
                 "repo": "Reducible",
                 "stars": 669
-              }
+              },
+              "first_seen": "2026-08-28T04:21:20.842Z"
             }
           ]
         },
@@ -219,7 +228,8 @@
                 "owner": "sgalkina",
                 "repo": "animations",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T04:21:20.842Z"
             }
           ]
         },
@@ -241,7 +251,8 @@
                 "owner": "xiaoxiae",
                 "repo": "videos",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T04:21:20.842Z"
             }
           ]
         }
@@ -268,8 +279,9 @@
                 "last_commit": "2026-08-26T19:10:15Z",
                 "owner": "ManimCommunity",
                 "repo": "manim",
-                "stars": 40482
-              }
+                "stars": 40492
+              },
+              "first_seen": "2026-08-28T04:21:20.842Z"
             }
           ]
         },
@@ -290,8 +302,9 @@
                 "last_commit": "2026-08-18T21:03:49Z",
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 92104
-              }
+                "stars": 92129
+              },
+              "first_seen": "2026-08-28T04:21:20.842Z"
             }
           ]
         }
@@ -300,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:59.372Z",
+    "last_updated": "2026-08-28T04:21:20.842Z",
     "original_repository_info": {
       "archived": false,
       "id": 432286462,
