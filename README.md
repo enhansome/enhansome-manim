@@ -315,7 +315,7 @@
 ## About
 
 * Manim Community Edition
-  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 40,506 | 🐛 485 | 🌐 Python | 📅 2026-08-26
+  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 40,507 | 🐛 485 | 🌐 Python | 📅 2026-08-26
   * [Demo/Tutorial](https://try.manim.community/)
   * [Documentation](https://docs.manim.community/en/latest/index.html)
   * [Homepage](https://www.manim.community/)
