@@ -233,7 +233,7 @@
   * [Website](https://reanlea.com/)
   * [Discord](https://discord.com/invite/r2Bd2CS6S7)
 * Reducible
-  * [GitHub](https://github.com/nipunramk/Reducible) ⭐ 669 | 🐛 2 | 🌐 Python | 📅 2022-08-01
+  * [GitHub](https://github.com/nipunramk/Reducible) ⭐ 670 | 🐛 2 | 🌐 Python | 📅 2022-08-01
   * [YouTube](https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA)
 * Rooney
   * [YouTube](https://www.youtube.com/channel/UCvYCMicLA7TZNfYhOaSCOsw)
@@ -315,12 +315,12 @@
 ## About
 
 * Manim Community Edition
-  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 40,554 | 🐛 491 | 🌐 Python | 📅 2026-08-26
+  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 40,577 | 🐛 497 | 🌐 Python | 📅 2026-09-01
   * [Demo/Tutorial](https://try.manim.community/)
   * [Documentation](https://docs.manim.community/en/latest/index.html)
   * [Homepage](https://www.manim.community/)
 * Manim 3b1b Edition
-  * [GitHub](https://github.com/3b1b/manim) ⭐ 92,339 | 🐛 491 | 🌐 Python | 📅 2026-08-18
+  * [GitHub](https://github.com/3b1b/manim) ⭐ 92,522 | 🐛 492 | 🌐 Python | 📅 2026-09-01
   * [Documentation](https://3b1b.github.io/manim/)
 
 ## Star History
@@ -361,4 +361,4 @@ Again, thank you for contributing to our project by using Manim in your videos t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
