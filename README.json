@@ -112,7 +112,7 @@
                 "open_issues": 45,
                 "owner": "3b1b",
                 "repo": "videos",
-                "stars": 11193,
+                "stars": 11198,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:20.842Z"
@@ -346,10 +346,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-05T13:31:34Z",
-                "open_issues": 496,
+                "open_issues": 501,
                 "owner": "ManimCommunity",
                 "repo": "manim",
-                "stars": 40678,
+                "stars": 40700,
                 "topics": [
                   "animations",
                   "hacktoberfest",
@@ -383,7 +383,7 @@
                 "open_issues": 494,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 93280,
+                "stars": 93401,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:06:24.761Z",
+    "last_updated": "2026-09-07T22:48:07.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "A database with many Manim users and content creators",
