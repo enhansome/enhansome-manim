@@ -112,7 +112,7 @@
                 "open_issues": 45,
                 "owner": "3b1b",
                 "repo": "videos",
-                "stars": 11198,
+                "stars": 11201,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:20.842Z"
@@ -345,11 +345,11 @@
                 "id": 265122478,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-05T13:31:34Z",
-                "open_issues": 501,
+                "last_commit": "2026-09-08T21:51:18Z",
+                "open_issues": 498,
                 "owner": "ManimCommunity",
                 "repo": "manim",
-                "stars": 40700,
+                "stars": 40719,
                 "topics": [
                   "animations",
                   "hacktoberfest",
@@ -380,10 +380,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T20:13:14Z",
-                "open_issues": 494,
+                "open_issues": 498,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 93401,
+                "stars": 93508,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:48:07.210Z",
+    "last_updated": "2026-09-08T22:37:36.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "A database with many Manim users and content creators",
@@ -408,7 +408,7 @@
       "id": 432286462,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-13T16:28:31Z",
+      "last_commit": "2026-09-08T21:10:34Z",
       "open_issues": 3,
       "owner": "ManimCommunity",
       "repo": "awesome-manim",
@@ -422,7 +422,7 @@
         "open-source"
       ]
     },
-    "original_repository_sha": "550cdd76f20f839b92252a9d8d1f244b2249e8cd",
+    "original_repository_sha": "e0640aab544733431334b0ee74ef2659fbd8a5c6",
     "enhanced_repository": "enhansome/enhansome-manim",
     "enhanced_repository_description": null,
     "title": "Awesome manim with stars"

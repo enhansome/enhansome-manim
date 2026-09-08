@@ -107,7 +107,7 @@
   * [YouTube](https://www.youtube.com/channel/UCFYWzLgsAdveK1KBZJb8QGg)
   * [GitHub](https://github.com/GarryBGoode)
 * Grant Sanderson (3blue1brown)
-  * [GitHub](https://github.com/3b1b/videos) ⭐ 11,198 | 🐛 45 | 🌐 Python | 📅 2026-08-25
+  * [GitHub](https://github.com/3b1b/videos) ⭐ 11,201 | 🐛 45 | 🌐 Python | 📅 2026-08-25
   * [YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * Instinct Mathématique
   * [YouTube](https://www.youtube.com/channel/UCDmWzjW6YjmNyRc2GoNjieg)
@@ -228,6 +228,9 @@
 * Radical31415
   * [Youtube](https://www.youtube.com/@Radical31415)
   * [Twitch](https://www.twitch.tv/radical31415)
+* rayplusplus
+  * [Youtube](https://www.youtube.com/@rayplusplus)
+  * [X](https://x.com/rayplusplus_)
 * REANLEA
   * [YouTube](https://www.youtube.com/reanlea)
   * [Website](https://reanlea.com/)
@@ -315,12 +318,12 @@
 ## About
 
 * Manim Community Edition
-  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 40,700 | 🐛 501 | 🌐 Python | 📅 2026-09-05
+  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 40,719 | 🐛 498 | 🌐 Python | 📅 2026-09-08
   * [Demo/Tutorial](https://try.manim.community/)
   * [Documentation](https://docs.manim.community/en/latest/index.html)
   * [Homepage](https://www.manim.community/)
 * Manim 3b1b Edition
-  * [GitHub](https://github.com/3b1b/manim) ⭐ 93,401 | 🐛 494 | 🌐 Python | 📅 2026-09-01
+  * [GitHub](https://github.com/3b1b/manim) ⭐ 93,508 | 🐛 498 | 🌐 Python | 📅 2026-09-01
   * [Documentation](https://3b1b.github.io/manim/)
 
 ## Star History
@@ -361,4 +364,4 @@ Again, thank you for contributing to our project by using Manim in your videos t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
