@@ -29,6 +29,8 @@
   * [Reddit](https://www.reddit.com/user/aljabrak)
 * Amit KD (LeastAction)
   * [YouTube](https://www.youtube.com/@Least.Action)
+* Another Angle
+  * [YouTube](https://www.youtube.com/@anotherangle_yt)
 * AoMP: Art of MRI Physics
   * [YouTube](https://www.youtube.com/@hdoMRIphysics)
   * [Substack Newsletter](https://hdomriphysics.substack.com/about)
@@ -107,10 +109,14 @@
   * [YouTube](https://www.youtube.com/channel/UCFYWzLgsAdveK1KBZJb8QGg)
   * [GitHub](https://github.com/GarryBGoode)
 * Grant Sanderson (3blue1brown)
-  * [GitHub](https://github.com/3b1b/videos) ⭐ 11,273 | 🐛 48 | 🌐 Python | 📅 2026-09-15
+  * [GitHub](https://github.com/3b1b/videos) ⭐ 11,279 | 🐛 48 | 🌐 Python | 📅 2026-09-29
   * [YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * Instinct Mathématique
   * [YouTube](https://www.youtube.com/channel/UCDmWzjW6YjmNyRc2GoNjieg)
+* Jake
+  * [YouTube](https://www.youtube.com/@jakedvs)
+  * [GitHub](https://github.com/jakedves)
+  * [Website](https://www.jakedavies.dev)
 * jHan (a + bi)
   * [YouTube](https://www.youtube.com/channel/UCPX4OLPrulGFE_c1FXZjwzg)
 * KaTuripu
@@ -318,12 +324,12 @@
 ## About
 
 * Manim Community Edition
-  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 41,118 | 🐛 500 | 🌐 Python | 📅 2026-09-27
+  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 41,135 | 🐛 499 | 🌐 Python | 📅 2026-09-29
   * [Demo/Tutorial](https://try.manim.community/)
   * [Documentation](https://docs.manim.community/en/latest/index.html)
   * [Homepage](https://www.manim.community/)
 * Manim 3b1b Edition
-  * [GitHub](https://github.com/3b1b/manim) ⭐ 94,353 | 🐛 502 | 🌐 Python | 📅 2026-09-09
+  * [GitHub](https://github.com/3b1b/manim) ⭐ 94,377 | 🐛 503 | 🌐 Python | 📅 2026-09-09
   * [Documentation](https://3b1b.github.io/manim/)
 
 ## Star History
