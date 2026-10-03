@@ -11,7 +11,7 @@
             {
               "node_type": "item",
               "title": "JonathanWoollett-Light/a-little-more-than-an-introduction-to",
-              "description": null,
+              "description": "JonathanWoollett-Light/a-little-more-than-an-introduction-to",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -43,7 +43,7 @@
             {
               "node_type": "item",
               "title": "ta4anx/BitDahi-YouTube",
-              "description": null,
+              "description": "ta4anx/BitDahi-YouTube",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -71,7 +71,7 @@
             {
               "node_type": "item",
               "title": "chilaochen/manim_projects",
-              "description": null,
+              "description": "chilaochen/manim_projects",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -99,7 +99,7 @@
             {
               "node_type": "item",
               "title": "3b1b/videos",
-              "description": null,
+              "description": "3b1b/videos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -112,7 +112,7 @@
                 "open_issues": 48,
                 "owner": "3b1b",
                 "repo": "videos",
-                "stars": 11291,
+                "stars": 11295,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:20.842Z"
@@ -127,7 +127,7 @@
             {
               "node_type": "item",
               "title": "mashaan14/manim",
-              "description": null,
+              "description": "mashaan14/manim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -157,7 +157,7 @@
             {
               "node_type": "item",
               "title": "MathinkYT/manim_videos",
-              "description": null,
+              "description": "MathinkYT/manim_videos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -185,7 +185,7 @@
             {
               "node_type": "item",
               "title": "21stCenturyCorporation/Maths-Tutorial",
-              "description": null,
+              "description": "21stCenturyCorporation/Maths-Tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -213,7 +213,7 @@
             {
               "node_type": "item",
               "title": "0xCoto/OpenEngineering",
-              "description": null,
+              "description": "0xCoto/OpenEngineering",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -241,7 +241,7 @@
             {
               "node_type": "item",
               "title": "nipunramk/Reducible",
-              "description": null,
+              "description": "nipunramk/Reducible",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -269,7 +269,7 @@
             {
               "node_type": "item",
               "title": "sgalkina/animations",
-              "description": null,
+              "description": "sgalkina/animations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -297,7 +297,7 @@
             {
               "node_type": "item",
               "title": "xiaoxiae/videos",
-              "description": null,
+              "description": "xiaoxiae/videos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -336,7 +336,7 @@
             {
               "node_type": "item",
               "title": "ManimCommunity/manim",
-              "description": null,
+              "description": "ManimCommunity/manim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -349,7 +349,7 @@
                 "open_issues": 502,
                 "owner": "ManimCommunity",
                 "repo": "manim",
-                "stars": 41197,
+                "stars": 41201,
                 "topics": [
                   "animations",
                   "hacktoberfest",
@@ -370,7 +370,7 @@
             {
               "node_type": "item",
               "title": "3b1b/manim",
-              "description": null,
+              "description": "3b1b/manim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -383,7 +383,7 @@
                 "open_issues": 502,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 94471,
+                "stars": 94483,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:44:51.135Z",
+    "last_updated": "2026-10-03T04:54:25.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "A database with many Manim users and content creators",
