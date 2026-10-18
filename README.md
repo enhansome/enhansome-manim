@@ -111,7 +111,7 @@
   * [YouTube](https://www.youtube.com/channel/UCFYWzLgsAdveK1KBZJb8QGg)
   * [GitHub](https://github.com/GarryBGoode)
 * Grant Sanderson (3blue1brown)
-  * [GitHub](https://github.com/3b1b/videos) ⭐ 11,371 | 🐛 51 | 🌐 Python | 📅 2026-09-29
+  * [GitHub](https://github.com/3b1b/videos) ⭐ 11,381 | 🐛 51 | 🌐 Python | 📅 2026-09-29
   * [YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * Instinct Mathématique
   * [YouTube](https://www.youtube.com/channel/UCDmWzjW6YjmNyRc2GoNjieg)
@@ -170,7 +170,7 @@
 * MathemARTics
   * [Youtube](https://www.youtube.com/@mathemartics)
 * Mathink
-  * [GitHub](https://github.com/MathinkYT/manim_videos) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2022-11-14
+  * [GitHub](https://github.com/MathinkYT/manim_videos) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2022-11-14
   * [YouTube](https://www.youtube.com/channel/UCjk8AJj6bfqG4MInL3LB-QA)
 * MathWizards
   * [YouTube](https://www.youtube.com/@manim.mathwizards)
@@ -205,7 +205,7 @@
 * Nyquistyle
   * [YouTube](https://www.youtube.com/@Nyquistyle)
 * Open Engineering
-  * [GitHub](https://github.com/0xCoto/OpenEngineering) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2021-12-11
+  * [GitHub](https://github.com/0xCoto/OpenEngineering) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2021-12-11
   * [YouTube](https://www.youtube.com/channel/UCfEiVXhy9rj4wdqpD_Il6Zg)
 * Oromen Videos (Spanish)
   * [YouTube](https://www.youtube.com/c/Oromen/)
@@ -244,7 +244,7 @@
   * [Website](https://reanlea.com/)
   * [Discord](https://discord.com/invite/r2Bd2CS6S7)
 * Reducible
-  * [GitHub](https://github.com/nipunramk/Reducible) ⭐ 671 | 🐛 2 | 🌐 Python | 📅 2022-08-01
+  * [GitHub](https://github.com/nipunramk/Reducible) ⭐ 672 | 🐛 2 | 🌐 Python | 📅 2022-08-01
   * [YouTube](https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA)
 * Rooney
   * [YouTube](https://www.youtube.com/channel/UCvYCMicLA7TZNfYhOaSCOsw)
@@ -263,7 +263,7 @@
   * [YouTube](https://www.youtube.com/channel/UCEo_JfTH_9FK-7k9-mAWJkQ)
   * [Patreon](https://www.patreon.com/sudgylacmoe)
 * Svetlana Kutuzova (Deep Learning That Works)
-  * [GitHub](https://github.com/sgalkina/animations) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-03-11
+  * [GitHub](https://github.com/sgalkina/animations) ⭐ 11 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-03-11
   * [Youtube](https://www.youtube.com/channel/UCuE0T28t_7cW_9HcEqRt9qA)
   * [Youtube in Danish](https://www.youtube.com/@deeplearningthatworkspadansk)
   * [Youtube in Russian](https://www.youtube.com/@deeplearningthatworksru)
@@ -275,7 +275,7 @@
   * [YouTube](https://www.youtube.com/channel/UCcTgnJE_RKa8-Qzx6lB78lg)
   * [Facebook](https://www.facebook.com/thesiguyEN/)
 * Tomáš Sláma
-  * [GitHub](https://github.com/xiaoxiae/videos) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2024-04-08
+  * [GitHub](https://github.com/xiaoxiae/videos) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2024-04-08
   * [YouTube](https://www.youtube.com/channel/UC_IaBSHmisYbiYlv32EeNkQ)
 * Undeniable Dilemma
   * [GitHub](https://github.com/neuroDEVergent)
@@ -326,12 +326,12 @@
 ## About
 
 * Manim Community Edition
-  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 41,627 | 🐛 497 | 🌐 Python | 📅 2026-10-16
+  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 41,653 | 🐛 498 | 🌐 Python | 📅 2026-10-16
   * [Demo/Tutorial](https://try.manim.community/)
   * [Documentation](https://docs.manim.community/en/latest/index.html)
   * [Homepage](https://www.manim.community/)
 * Manim 3b1b Edition
-  * [GitHub](https://github.com/3b1b/manim) ⭐ 95,241 | 🐛 505 | 🌐 Python | 📅 2026-09-09
+  * [GitHub](https://github.com/3b1b/manim) ⭐ 95,293 | 🐛 505 | 🌐 Python | 📅 2026-09-09
   * [Documentation](https://3b1b.github.io/manim/)
 
 ## Star History
@@ -372,4 +372,4 @@ Again, thank you for contributing to our project by using Manim in your videos t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
