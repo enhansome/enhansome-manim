@@ -22,7 +22,7 @@
 * Aion
   * [YouTube](https://www.youtube.com/@aion-v2h)
 * A little more than an introduction to
-  * [GitHub](https://github.com/JonathanWoollett-Light/a-little-more-than-an-introduction-to) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2024-09-16
+  * [GitHub](https://github.com/JonathanWoollett-Light/a-little-more-than-an-introduction-to) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-09-16
   * [YouTube](https://www.youtube.com/channel/UCze6YPZo6gzj-Nup2P59KUA)
 * Aljabrak
   * [YouTube](https://www.youtube.com/@aljabrak)
@@ -45,7 +45,7 @@
 * BFDI Science
   * [YouTube](https://www.youtube.com/@bfdiscience)
 * BitDahi
-  * [GitHub](https://github.com/ta4anx/BitDahi-YouTube) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2025-09-03
+  * [GitHub](https://github.com/ta4anx/BitDahi-YouTube) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2025-09-03
   * [YouTube](https://www.youtube.com/@bitdahi)
   * [Instagram](https://www.instagram.com/bitdahi)
 * Bits and Bytes
@@ -63,7 +63,7 @@
 * byyytes
   * [YouTube](https://www.youtube.com/channel/UCTLYbIZxyKFBT93YtIgvtEg)
 * Chilao (痴佬)
-  * [Github](https://github.com/chilaochen/manim_projects) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2024-05-17
+  * [Github](https://github.com/chilaochen/manim_projects) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-05-17
   * [Youtube](https://www.youtube.com/channel/UCuZnzdIvJcyW5FOWnD_MGKQ)
   * [Bilibili](https://space.bilibili.com/289813724)
 * Chris Wuthrich
@@ -111,7 +111,7 @@
   * [YouTube](https://www.youtube.com/channel/UCFYWzLgsAdveK1KBZJb8QGg)
   * [GitHub](https://github.com/GarryBGoode)
 * Grant Sanderson (3blue1brown)
-  * [GitHub](https://github.com/3b1b/videos) ⭐ 11,381 | 🐛 51 | 🌐 Python | 📅 2026-09-29
+  * [GitHub](https://github.com/3b1b/videos) ⭐ 11,383 | 🐛 51 | 🌐 Python | 📅 2026-09-29
   * [YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * Instinct Mathématique
   * [YouTube](https://www.youtube.com/channel/UCDmWzjW6YjmNyRc2GoNjieg)
@@ -149,7 +149,7 @@
   * [YouTube](https://www.youtube.com/channel/UCk1nsj8AvzuSVL_I4JieVNQ)
   * [GitHub](https://github.com/manim-kindergarten)
 * Mashaan Alshammari
-  * [GitHub](https://github.com/mashaan14/manim) ⭐ 3 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-04-26
+  * [GitHub](https://github.com/mashaan14/manim) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-04-26
   * [Website](https://mashaan14.github.io/mashaan/manim.html)
   * [YouTube](https://www.youtube.com/@mashaan14)
 * Mashup
@@ -244,7 +244,7 @@
   * [Website](https://reanlea.com/)
   * [Discord](https://discord.com/invite/r2Bd2CS6S7)
 * Reducible
-  * [GitHub](https://github.com/nipunramk/Reducible) ⭐ 672 | 🐛 2 | 🌐 Python | 📅 2022-08-01
+  * [GitHub](https://github.com/nipunramk/Reducible) ⭐ 673 | 🐛 2 | 🌐 Python | 📅 2022-08-01
   * [YouTube](https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA)
 * Rooney
   * [YouTube](https://www.youtube.com/channel/UCvYCMicLA7TZNfYhOaSCOsw)
@@ -326,12 +326,12 @@
 ## About
 
 * Manim Community Edition
-  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 41,653 | 🐛 498 | 🌐 Python | 📅 2026-10-16
+  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 41,698 | 🐛 500 | 🌐 Python | 📅 2026-10-16
   * [Demo/Tutorial](https://try.manim.community/)
   * [Documentation](https://docs.manim.community/en/latest/index.html)
   * [Homepage](https://www.manim.community/)
 * Manim 3b1b Edition
-  * [GitHub](https://github.com/3b1b/manim) ⭐ 95,293 | 🐛 505 | 🌐 Python | 📅 2026-09-09
+  * [GitHub](https://github.com/3b1b/manim) ⭐ 95,376 | 🐛 505 | 🌐 Python | 📅 2026-09-09
   * [Documentation](https://3b1b.github.io/manim/)
 
 ## Star History
@@ -372,4 +372,4 @@ Again, thank you for contributing to our project by using Manim in your videos t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
