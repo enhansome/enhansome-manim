@@ -111,7 +111,7 @@
   * [YouTube](https://www.youtube.com/channel/UCFYWzLgsAdveK1KBZJb8QGg)
   * [GitHub](https://github.com/GarryBGoode)
 * Grant Sanderson (3blue1brown)
-  * [GitHub](https://github.com/3b1b/videos) ⭐ 11,445 | 🐛 52 | 🌐 Python | 📅 2026-09-29
+  * [GitHub](https://github.com/3b1b/videos) ⭐ 11,453 | 🐛 54 | 🌐 Python | 📅 2026-09-29
   * [YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * Instinct Mathématique
   * [YouTube](https://www.youtube.com/channel/UCDmWzjW6YjmNyRc2GoNjieg)
@@ -275,7 +275,7 @@
   * [YouTube](https://www.youtube.com/channel/UCcTgnJE_RKa8-Qzx6lB78lg)
   * [Facebook](https://www.facebook.com/thesiguyEN/)
 * Tomáš Sláma
-  * [GitHub](https://github.com/xiaoxiae/videos) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2024-04-08
+  * [GitHub](https://github.com/xiaoxiae/videos) ⭐ 95 | 🐛 0 | 🌐 Python | 📅 2024-04-08
   * [YouTube](https://www.youtube.com/channel/UC_IaBSHmisYbiYlv32EeNkQ)
 * Undeniable Dilemma
   * [GitHub](https://github.com/neuroDEVergent)
@@ -326,12 +326,12 @@
 ## About
 
 * Manim Community Edition
-  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 42,113 | 🐛 396 | 🌐 Python | 📅 2026-10-29
+  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 42,165 | 🐛 396 | 🌐 Python | 📅 2026-11-02
   * [Demo/Tutorial](https://try.manim.community/)
   * [Documentation](https://docs.manim.community/en/latest/index.html)
   * [Homepage](https://www.manim.community/)
 * Manim 3b1b Edition
-  * [GitHub](https://github.com/3b1b/manim) ⭐ 95,974 | 🐛 517 | 🌐 Python | 📅 2026-09-09
+  * [GitHub](https://github.com/3b1b/manim) ⭐ 96,024 | 🐛 518 | 🌐 Python | 📅 2026-09-09
   * [Documentation](https://3b1b.github.io/manim/)
 
 ## Star History
@@ -372,4 +372,4 @@ Again, thank you for contributing to our project by using Manim in your videos t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
