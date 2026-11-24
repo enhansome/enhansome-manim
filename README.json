@@ -112,7 +112,7 @@
                 "open_issues": 50,
                 "owner": "3b1b",
                 "repo": "videos",
-                "stars": 11523,
+                "stars": 11534,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:20.842Z"
@@ -254,7 +254,7 @@
                 "open_issues": 2,
                 "owner": "nipunramk",
                 "repo": "Reducible",
-                "stars": 675,
+                "stars": 676,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:20.842Z"
@@ -345,11 +345,11 @@
                 "id": 265122478,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-22T14:46:02Z",
-                "open_issues": 402,
+                "last_commit": "2026-11-23T21:06:55Z",
+                "open_issues": 409,
                 "owner": "ManimCommunity",
                 "repo": "manim",
-                "stars": 42815,
+                "stars": 42863,
                 "topics": [
                   "animations",
                   "hacktoberfest",
@@ -380,10 +380,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 520,
+                "open_issues": 518,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 96822,
+                "stars": 96875,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T00:47:56.615Z",
+    "last_updated": "2026-11-24T04:43:33.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A database with many Manim users and content creators",
@@ -408,7 +408,7 @@
       "id": 432286462,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-17T00:24:24Z",
+      "last_commit": "2026-11-23T15:37:49Z",
       "open_issues": 3,
       "owner": "ManimCommunity",
       "repo": "awesome-manim",
@@ -422,7 +422,7 @@
         "open-source"
       ]
     },
-    "original_repository_sha": "077363b954695d5db7c0616dfa755c65c3632285",
+    "original_repository_sha": "7b9034a19db0c698e1ce603c4ebd91c93bfb71f4",
     "enhanced_repository": "enhansome/enhansome-manim",
     "enhanced_repository_description": null,
     "title": "Awesome manim with stars"
