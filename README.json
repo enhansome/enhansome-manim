@@ -345,11 +345,11 @@
                 "id": 265122478,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-25T21:59:06Z",
-                "open_issues": 408,
+                "last_commit": "2026-11-26T23:48:03Z",
+                "open_issues": 410,
                 "owner": "ManimCommunity",
                 "repo": "manim",
-                "stars": 42915,
+                "stars": 42959,
                 "topics": [
                   "animations",
                   "hacktoberfest",
@@ -383,7 +383,7 @@
                 "open_issues": 519,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 96974,
+                "stars": 97011,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:47:36.855Z",
+    "last_updated": "2026-11-27T02:48:51.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "A database with many Manim users and content creators",

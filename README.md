@@ -333,12 +333,12 @@
 ## About
 
 * Manim Community Edition
-  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 42,915 | 🐛 408 | 🌐 Python | 📅 2026-11-25
+  * [GitHub](https://github.com/ManimCommunity/manim) ⭐ 42,959 | 🐛 410 | 🌐 Python | 📅 2026-11-26
   * [Demo/Tutorial](https://try.manim.community/)
   * [Documentation](https://docs.manim.community/en/latest/index.html)
   * [Homepage](https://www.manim.community/)
 * Manim 3b1b Edition
-  * [GitHub](https://github.com/3b1b/manim) ⭐ 96,974 | 🐛 519 | 🌐 Python | 📅 2026-09-09
+  * [GitHub](https://github.com/3b1b/manim) ⭐ 97,011 | 🐛 519 | 🌐 Python | 📅 2026-09-09
   * [Documentation](https://3b1b.github.io/manim/)
 
 ## Star History
@@ -379,4 +379,4 @@ Again, thank you for contributing to our project by using Manim in your videos t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
